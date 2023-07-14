@@ -1,0 +1,18 @@
+<dependencies>
+  <compile
+      roots="/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release">
+    <dependency
+        name="/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release,__local_aars__:/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/classes.jar:unspecified@jar,__local_aars__:/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar">
+    <dependency
+        name="/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/classes.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:/media/raylander/Data/Faculdade/7 Semestre/Level design/Trabalho Final/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"/>
+  </package>
+</dependencies>
